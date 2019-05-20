@@ -46,6 +46,7 @@ body p {
 .grey {
     background-color: #D2D4DC;
     border-radius: 50px;
+    position: relative;
 
 }
 .pink {
@@ -56,14 +57,10 @@ body p {
 .green {
     background-color: #96CEB4;
     height: 350px;
-    width: 10%;
     position: relative;
+    border-radius: 0% 25% 0% 0%;
 }
-.green_rectangle {
-    background: url("img/green.png");
-    background-repeat: no-repeat;
- 
-}
+
 .yellow_rectangle {
     background: url("img/yellow.png");
     background-repeat: no-repeat;
