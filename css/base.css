@@ -1,0 +1,124 @@
+body {
+    font-family: 'Comfortaa', bold;
+}
+body h1 {
+    font-size: 39px;
+}
+body p {
+    font-size: 18px;
+    color: #676767;
+}
+.center {
+    display: block;
+    margin: auto;
+}
+#nav {
+    margin-top: 50px;
+    font-size: 18px;
+}
+.smi img {
+    height: 30px;
+    margin: 10px;
+}
+.logo img {
+    height: 50px;
+}
+.nav-item {
+    color: black;
+    padding-right: 20px;
+    margin-top: 20px;
+}
+
+#projects {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+#projects .row {
+    height: auto;
+    min-height: 550px;
+    
+}
+#projects p {
+    text-align: left;
+}
+.grey {
+    background-color: #D2D4DC;
+    border-radius: 50px;
+    height: 50%;
+}
+.pink {
+    background-color: #FDE2C0;
+    height: 350px;
+    
+}
+.green {
+    background-color: #96CEB4;
+    height: 350px;
+}
+.green_rectangle {
+    background: url("../img/green.png");
+    background-repeat: no-repeat;
+}
+.yellow_rectangle {
+    background: url("../img/yellow.png");
+    background-repeat: no-repeat;
+}
+.orange_rectangle {
+    background: url("../img/orange.png");
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+.pink_rectangle {
+    background: url("../img/pink.png");
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+.middle {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.white_space {
+    height: 50px;
+}
+.left_space {
+    margin-left: 50px;
+}
+ion-icon {
+    font-size: 150px;
+    color: black;
+}
+input {
+    margin: 10px auto;
+    position: relative;
+    width: 650px;
+}
+.btn-red {
+    background-color: #FF6F69;
+    color: white;
+    margin-top: 20px;
+    height: 80px;
+    width: 250px;
+}
+.btn-white {
+    background-color: white;
+    border-color: #676767;
+    color: #676767;
+    font-size: 30px;
+    height: 80px;
+    width: 100%;
+}
+.img_logo {
+    margin-top: 50px;
+    max-height: 350px;
+    width: 100%;
+}
+.img_site {
+    width: 100%;
+}
+#projects a {     
+   display: inline-block;     
+   position: relative;    
+   z-index: 1;     
+   padding: 8em;     
+   margin: -2em; 
+}
